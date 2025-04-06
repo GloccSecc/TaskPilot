@@ -18,8 +18,8 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AutoMate.git
-cd AutoMate
+git clone https://github.com/your-username/TaskPilot.git
+cd TaskPilot
 
 ▶️ Usage
 
